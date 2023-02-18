@@ -1,4 +1,3 @@
 this file created for jenkins artifact
 add data for automation
 hi artifact
-bhushan
